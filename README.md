@@ -18,4 +18,4 @@ The path to the 7z.exe file must also be specified in the script.<br>
 # Disclaimer
 
 Use this script at your own risk. It is recommended to make backups of your image files before using this script.<br>
-The author is not responsible for any loss of data or unintended consequences of using this script.<br>
+I'm not responsible for any loss of data or unintended consequences of using this script.
