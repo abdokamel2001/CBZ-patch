@@ -1,5 +1,6 @@
 # CBZ-patch
 
+CBZ files (Comic Book Archive) are basically just ZIP files with a different file extension, and are often used for storing and reading digital comics.<br>
 This is a command line utility for converting directories of image files into CBZ files and vice versa.<br>
 It also allows for the deletion of the original directories or CBZ files after conversion.<br>
 
