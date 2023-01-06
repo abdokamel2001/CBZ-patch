@@ -7,7 +7,7 @@ It also allows for the deletion of the original directories or CBZ files after c
 
 To use this utility, simply run the script in a directory containing subdirectories of image files.<br>
 The script will then present a list of options for each subdirectory , allowing you to choose which one to convert.<br>
-After choosing a subdirectory, you will be prompted to choose whether to enable CBZ (convert the directory into a CBZ file)<br>
+After choosing a subdirectory, you will be prompted to choose whether to enable CBZ (convert the directory into a CBZ file)
 or disable CBZ (extract the CBZ file into a directory). You will then be given the option to delete the original directories or CBZ files after conversion.<br>
 
 # Requirements
